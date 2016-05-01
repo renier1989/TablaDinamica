@@ -15,7 +15,7 @@
                      <h1 align="center">Live Table Add Edit Delete using Ajax Jquery in PHP Mysql</h1>
                      <h2 align="center">Practiacando con este Codigo Usando GIT</h2>
                      <div align="center">
-                       <button type="button" name="delete_btn" class="btn btn-lg btn-success"> BOTON TEST</button>
+                       <a href="index.html"><button type="button" class="btn btn-lg btn-success">INDEX</button></a>
                      </div>
                      <h3 align="center"> Esta es una Modificacion de la Rama(Branch) Test</h3><br />
 
